@@ -1,0 +1,29 @@
+{
+  "name": "videoplayer",
+  "version": "1.0.0",
+  "description": "video player for vudu.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fec1-arwen/VideoPlayer.git"
+  },
+  "author": "matthew goyke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fec1-arwen/VideoPlayer/issues"
+  },
+  "homepage": "https://github.com/fec1-arwen/VideoPlayer#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
