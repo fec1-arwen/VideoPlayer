@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fec1-arwen/VideoPlayer#readme",
   "devDependencies": {
+    "jest": "^24.8.0",
     "live-server": "^1.2.1",
     "nodemon": "^1.19.1"
   },
